@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+scikit-image
+opencv-python-headless
+gunicorn
+python-multipart
